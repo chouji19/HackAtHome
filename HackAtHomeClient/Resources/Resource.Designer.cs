@@ -112,8 +112,8 @@ namespace HackAtHomeClient
 			// aapt resource value: 0x7f06000b
 			public const int linearLayout1 = 2131099659;
 			
-			// aapt resource value: 0x7f060012
-			public const int linearLayout3 = 2131099666;
+			// aapt resource value: 0x7f060011
+			public const int linearLayout3 = 2131099665;
 			
 			// aapt resource value: 0x7f060002
 			public const int textView1 = 2131099650;
@@ -141,9 +141,6 @@ namespace HackAtHomeClient
 			
 			// aapt resource value: 0x7f060006
 			public const int textViewStatusDetail = 2131099654;
-			
-			// aapt resource value: 0x7f060011
-			public const int webLoadingIcon = 2131099665;
 			
 			// aapt resource value: 0x7f060007
 			public const int webViewDetail = 2131099655;

@@ -29,7 +29,6 @@ namespace HackAtHomeClient
             btnValidar = FindViewById<Button>(Resource.Id.buttonValidate);
             btnValidar.Click += BtnValidar_Click;
 
-
         }
 
         private void BtnValidar_Click(object sender, System.EventArgs e)
